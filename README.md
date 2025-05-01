@@ -1,4 +1,4 @@
-# FCFS-Training-fullstack-java
+# Java-fullstack
 
 A Java Fullstack Training 
 
